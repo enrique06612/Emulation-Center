@@ -9,3 +9,5 @@ print of menu
 
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/20d0e556-b709-48b4-9485-ac79d5e343c9" />
 Super mario bros in the emulator
+
+Download: https://github.com/enrique06612/Emulation-Center/releases
